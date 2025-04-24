@@ -1,0 +1,146 @@
+body {
+    background-color: white;
+    font-family: 'Montserrat';
+    font-size: 15px;
+}
+
+.TeletMail{
+
+    width:70% ;
+    padding-right: 10%;
+    font-size:92%;
+}
+
+.AgeetLieuvie{
+
+    width:30%;
+}
+
+
+
+.ligne{
+    color: black;
+}
+
+.logoSocleo{
+    width: 10px;
+}
+.TitreDivers{
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    color: gray;
+
+}
+
+.TitrePrincipales{
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.Titre{
+
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    border-style:solid;
+    border-color: rgb(249, 243, 68);
+    border-width: 5px;
+    padding: 2%;
+
+}
+.Contenu{
+    display: flex;
+    text-align: center;
+   
+        
+}
+.Principale{
+    border-color:rgb(249, 243, 68);
+    flex-direction: row;
+    width:60%;
+    margin: 0.5%;
+    padding: 10px;
+
+}
+
+.EntreprisesEcoles {
+    color:rgb(160,71,6);
+    text-decoration: overline;
+    
+}
+
+.Formations {
+
+    font-size:90%;
+}
+.Années{
+    color:rgb(160, 71, 6);
+    font-weight: bold;
+
+
+}
+
+.Divers{
+    border-color: rgb(249, 243, 68);
+    flex-direction: row;
+    width:40%;
+
+  
+
+}
+.Pitch{
+    color: gray;
+    font-weight: bold;
+    border: solid;
+    border-color: rgb(249,243,68);
+    background-color: rgb(249,243,68);
+    padding: 5%;
+    line-height: 1.5;
+    margin: 10%;
+
+
+
+}
+.Intérêt{
+
+    border-style: solid;
+    border-color:rgb(249,243,68);
+    padding: 5%;
+    line-height: 1.5;
+    margin: 10%;
+    color: gray;
+
+}
+.Infocoordonnees{
+
+    display: flex;
+    text-align: center;
+    padding: 5%;
+    line-height: 1.5;
+    margin: 10%;
+    color: gray;
+
+}
+.Coordonnées{
+
+    border-style: solid;
+    border-color: gray;
+    padding: 5%;
+    line-height: 1.5;
+    margin: 10%;
+
+}
+
+.pictoAgeetLieuvie{
+
+    width:56px;
+}
+
+.pictoTeletMail{
+
+    width:45px;
+}
+
